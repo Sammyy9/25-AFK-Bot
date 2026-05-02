@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "esimo25.aternos.me",
-    "port": 29560,
+    "ip": "big-van.aternos.me",
+    "port": 37487,
     "version": "",
     "try-creative": false
   },
